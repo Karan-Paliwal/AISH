@@ -1,4 +1,5 @@
 # AISH
+
 A modern CLI tool powered by AI that:
 Corrects invalid Bash commands  
 Converts natural language into shell commands  
