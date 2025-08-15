@@ -1,8 +1,0 @@
-{
-    "list all files": "ls -la",
-    "list all files sorted by size": "ls -lhS",
-    "find all txt files in home": "find ~/ -type f -name '*.txt'",
-    "show disk usage": "du -h",
-    "check running processes": "ps aux"
-  }
-  
