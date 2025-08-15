@@ -1,0 +1,6 @@
+{"time": "2025-08-14T20:45:13", "cwd": "/Users/admin/Documents/aish_proto", "input": "name", "reason": "no_match"}
+{"time": "2025-08-14T20:45:18", "cwd": "/Users/admin/Documents/aish_proto", "input": "ls -a", "reason": "no_match"}
+{"time": "2025-08-14T20:45:22", "cwd": "/Users/admin/Documents/aish_proto", "input": "ls -l", "reason": "no_match"}
+{"time": "2025-08-14T20:45:29", "cwd": "/Users/admin/Documents/aish_proto", "input": "cd ~", "reason": "cd_invalid_path", "suggestion": "cd ~", "error": "No such directory: ~"}
+{"time": "2025-08-14T20:45:33", "cwd": "/Users/admin/Documents/aish_proto", "input": "cd admin", "reason": "cd_invalid_path", "suggestion": "cd admin", "error": "No such directory: admin"}
+{"time": "2025-08-14T20:49:27", "cwd": "/Users/admin/Documents/aish_proto", "input": "ls --help", "reason": "no_match"}
